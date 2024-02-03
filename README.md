@@ -17,7 +17,7 @@ xgboost
 catboost
 
 You can install them using the following command:
-# pip install pandas matplotlib seaborn scikit-learn xgboost catboost
+## pip install pandas matplotlib seaborn scikit-learn xgboost catboost
 
 ## How to Use
 Open the respective Jupyter notebook (usrecomm.ipynb or canadarecomm.ipynb).
